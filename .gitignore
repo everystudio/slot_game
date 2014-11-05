@@ -1,0 +1,14 @@
+*.csproj
+*.sln
+*.unityproj
+*.suo
+*.pidb
+*.userprefs
+*.svd
+*.booproj
+*.user
+Library/
+Temp/
+
+*.sublime-workspace
+
